@@ -7,7 +7,7 @@
 | 下载地址 | 博士私人微信 |
 |:-----------:|:-----------:|
 |![](./../../../Machine-Learning-Notes/blob/master/cvQD.jpg)|![](./../../../Machine-Learning-Notes/blob/master/Kingsplus.jpg)| 
-|【计算机视觉联盟】回复【20211124】即可获得百度云pdf下载链接|985AI博士，CSDN博客专家,备注：笔记，可获独家笔记|
+|【计算机视觉联盟】回复【20211123】即可获得百度云pdf下载链接|985AI博士，CSDN博客专家,备注：笔记，可获独家笔记|
 
 ## by 王博Kings 整理
 
