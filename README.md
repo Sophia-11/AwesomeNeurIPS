@@ -1,8 +1,17 @@
-# NeurIPS
-NeurIPS文章+代码（最新2021更新）
+# NeurIPS 2021论文pdf下载！代码持续更新！
+
+![](./img/nips.png)
+
+# 下载方式
+
+| 下载地址 | 博士私人微信 |
+|:-----------:|:-----------:|
+|![](./../../../Machine-Learning-Notes/blob/master/cvQD.jpg)|![](./../../../Machine-Learning-Notes/blob/master/Kingsplus.jpg)| 
+|【计算机视觉联盟】回复【20211124】即可获得百度云pdf下载链接|985AI博士，CSDN博客专家,备注：笔记，可获独家笔记|
 
 ## by 王博Kings 整理
 
+# 具体论文及代码
 
 1 [AugMax: Adversarial Composition of Random Augmentations for Robust Training](https://papers.nips.cc/paper/2021/hash/01e9565cecc4e989123f9620c1d09c09-Abstract.html) [HAOTAO N. WANG](https://www.expertkg.com/isearch/?name=haotao_n._wang); [CHAOWEI XIAO](https://www.expertkg.com/isearch/?name=chaowei_xiao); [JEAN KOSSAIFI](https://www.expertkg.com/isearch/?name=jean_kossaifi); [ZHIDING YU](https://www.expertkg.com/isearch/?name=zhiding_yu); [ANIMA ANANDKUMAR](https://www.expertkg.com/isearch/?name=anima_anandkumar); [ZHANGYANG WANG](https://www.expertkg.com/isearch/?name=zhangyang_wang); [code](https://github.com/VITA-Group/AugMax)
 
